@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GolangTraining-master/src/github.com/go-chi/chi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GolangTraining-master/src/gopkg.in/gcfg.v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GolangTraining-master/src/gopkg.in/warnings.v0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GolangTraining-master/sys/goscan" vcs="Git" />
+  </component>
+</project>
