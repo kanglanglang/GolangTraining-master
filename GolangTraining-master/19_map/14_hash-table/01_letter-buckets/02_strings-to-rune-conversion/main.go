@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	letter := rune("A"[0])
+	letter := rune("AB"[1])
 	fmt.Println(letter)
 }

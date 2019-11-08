@@ -22,6 +22,8 @@ func main() {
 	student2[3] = "96.00"
 	// store the record
 	records = append(records, student2)
+
 	// print
 	fmt.Println(records)
+
 }

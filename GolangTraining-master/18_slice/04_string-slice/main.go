@@ -18,13 +18,10 @@ func main() {
 		fmt.Println(i, currentEntry)
 	}
 
-
-	for z :=0;z<len(greeting);z++{
-		fmt.Println(greeting[z])
+	for z := 0; z < len(greeting); z++ {
+		//fmt.Println(greeting[z])
 		fmt.Printf(greeting[z])
 	}
-
-
 
 	//fmt.Println(len(greeting))
 	//
